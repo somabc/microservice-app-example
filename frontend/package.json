@@ -55,7 +55,7 @@
     "optimize-css-assets-webpack-plugin": "^2.0.0",
     "ora": "^1.2.0",
     "rimraf": "^2.6.0",
-    "semver": "^7.5.3",
+    "semver": "^7.5.4",
     "shelljs": "^0.8.5",
     "url-loader": "^4.1.1",
     "vue-loader": "^17.4.2",
